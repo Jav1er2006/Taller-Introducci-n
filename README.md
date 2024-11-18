@@ -2,10 +2,10 @@ Repositorio creado como parte de una tarea grupal sobre control de versiones, in
 
 
 
-// Suma de dos números
+// Division de dos números
 function suma(a, b) {
-  return a + b;
+  return a / b;
 }
 
-let resultado = suma(8, 3);
-console.log("La suma de 10 y 7 es: " + resultado);
+let resultado = suma(10, 2);
+console.log("La División de 10 entre 2 es: " + resultado);
